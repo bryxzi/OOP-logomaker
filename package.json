@@ -22,8 +22,9 @@
   },
   "homepage": "https://github.com/bryxzi/OOP-logomaker#readme",
   "dependencies": {
-    "inquirer": "^9.1.5",
-    "svg-builder": "^2.0.0"
+    "inquirer": "^7.3.3",
+    "svgson": "^4.0.0",
+    "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
     "jest": "^29.5.0"
